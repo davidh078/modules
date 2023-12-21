@@ -14,6 +14,14 @@ String x=b.concat(c);
 System.out.println(""+System.identityHashCode(x));
 
 
+		
+	
+	System.out.println("this is demo class for gitup");
+	
+	System.out.println("this is demo class for gitup2");
+	System.out.println("this is demo class for gitup3");
+	System.out.println("this is demo class for gitup4");
+	
 
 
 System.out.println("sringbuffer method/heap method");
