@@ -2,7 +2,8 @@ package org.dml;
 
 public class methodsStringdiffer {
 public static void main(String[] args) {
-	
+	System.out.println("this is demo class for gitup2");
+	System.out.println("this is demo class for gitup3");
 
 	String a="javaselenium";
 String b="muhulaknowledge";
@@ -14,6 +15,20 @@ String x=b.concat(c);
 System.out.println(""+System.identityHashCode(x));
 
 
+		
+	
+	System.out.println("this is demo class for gitup");
+	
+	System.out.println("this is demo class for gitup2");
+	System.out.println("this is demo class for gitup3");
+	System.out.println("this is demo class for gitup4");
+	System.out.println("this is demo class for gitup2");
+	System.out.println("this is demo class for gitup3");
+	System.out.println("this is demo class for gitup2");
+	System.out.println("this is demo class for gitup3");
+	System.out.println("this is demo class for gitup2");
+	System.out.println("this is demo class for gitup3");
+	
 
 
 System.out.println("sringbuffer method/heap method");
